@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>My Ambarrukmo</title>
         <item>
-            <title>Version 9.0.0+10</title>
+            <title>Version 9.0.0</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Mon, 16 Jan 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.ambarrukmo.point" sparkle:version="9.0.0+10" sparkle:os="android" />
+            <pubDate>Tue, 17 Jan 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.example.app" sparkle:version="9.0.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
